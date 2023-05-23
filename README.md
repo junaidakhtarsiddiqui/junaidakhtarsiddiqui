@@ -41,7 +41,7 @@ I'm **Junaid**, a passionate machine learning engineer with a strong background 
 
 ## 🔥 Github Stats
 
-<a href="https://readhxh.com"><img align="right" width="38%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Fmonkey-d-luffy-one-piece-anime-series-matte-finish-poster-p-6589-paper-print%2Fp%2Fitm5769ab1d93053&psig=AOvVaw0tMc8BAPyFZFjFvZ7fM8Ks&ust=1684902327380000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMitybvMiv8CFQAAAAAdAAAAABAD" alt="Luffy"/></a>
+<a href=""><img align="right" width="38%" src="https://wallpapers.com/images/high/luffy-smile-and-punch-qve161dzlirrevq5.webp" alt="Luffy"/></a>
 
   <a href="https://github.com/junaidakhtarsiddiqui"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=junaidakhtarsiddiqui&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/junaidakhtarsiddiqui"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=junaidakhtarsiddiqui&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
