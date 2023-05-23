@@ -1,4 +1,4 @@
-<a href="https://readberserk.com"><img src="https://i.imgur.com/x16Tm3l.jpeg" width="100%" height="auto" alt="Berserk Cover Image"/></a>
+<a href="#"><img src="https://e0.pxfuel.com/wallpapers/121/813/desktop-wallpaper-luffy-one-piece-iphone-one-piece-aesthetic.jpg" width="100%" height="auto" alt="Berserk Cover Image"/></a>
 <p align="center">
   <a href="https://twitter.com/dumbjunaid"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/bjecU9j.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
