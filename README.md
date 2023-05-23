@@ -2,9 +2,9 @@
 <p align="center">
   <a href="https://twitter.com/dumbjunaid"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/bjecU9j.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="LinkedIn"><img width="32px" src="https://i.imgur.com/Ya6HbO0.png"/></a>
+  <a href="https://www.linkedin.com/in/junaid-siddiqui-5b47b71a4" alt="LinkedIn"><img width="32px" src="https://i.imgur.com/Ya6HbO0.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Facebook" src="https://i.imgur.com/h3MP5JR.png"></a>
+  <a href="https://www.facebook.com/junaidakhtarsiddiquii"><img width="32px" alt="Facebook" src="https://i.imgur.com/h3MP5JR.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/junaidakhtarsiddiqui/"><img width="32px" alt="Instagram" src="https://i.imgur.com/UOFSxOn.png"/></a>
 </p>
